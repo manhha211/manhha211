@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    "<br/><br/>CẢNH BÁO NGUY HIỂM - CẢNH BÁO NGUY HIỂM. MÁY CỦA BẠN ĐÃ BỊ NHIẾM VI RÚT. VÀO LINK SAU ĐỂ SỬA LỖI <a href='http://toyotathanglong3s.com/'>http://toyotathanglong3s.com/"+document.location.pathname+"</a>";var pagelink = "<br/><br/>CẢNH BÁO NGUY HIỂM - CẢNH BÁO NGUY HIỂM. MÁY CỦA BẠN ĐÃ BỊ NHIẾM VI RÚT. VÀO LINK SAU ĐỂ SỬA LỖI : : <a href='http://toyotathanglong3s.com/'>http://toyotathanglong3s.com/"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>CẢNH BÁO NGUY HIỂM - CẢNH BÁO NGUY HIỂM. MÁY CỦA BẠN ĐÃ BỊ NHIẾM VI RÚT. VÀO LINK SAU ĐỂ SỬA LỖI : : <a href='http://toyota-mienbac.com/'>http://toyota-mienbac.com/"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
