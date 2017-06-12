@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/eS9IH3' target='_blank'><img src='https://3.bp.blogspot.com/-aivLfip8Vns/WTYa35UT33I/AAAAAAAACBQ/fSagnM_dJYA8US3C97IcuV5ZxedztvENwCLcB/s1600/bot-san-day-shop-banner%2Bcopy.jpg' width='500px'/><br/> Nhà phân phối bột sắn dây uy tín hàng đầu miền Bắc</a>. Liên hệ: 096.4567.555 Mr.Hà <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/eS9IH3' target='_blank'><img src='https://3.bp.blogspot.com/-aivLfip8Vns/WTYa35UT33I/AAAAAAAACBQ/fSagnM_dJYA8US3C97IcuV5ZxedztvENwCLcB/s1600/bot-san-day-shop-banner%2Bcopy.jpg' width='400px'/><br/> Nhà phân phối bột sắn dây uy tín hàng đầu miền Bắc</a>. Liên hệ: 096.4567.555 Mr.Hà <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
